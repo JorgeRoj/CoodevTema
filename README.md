@@ -5,4 +5,4 @@ Formulario funcional con validaciones incluidas.
 
 Este tema ha sido creado a partir de la siguiente plantilla "https://github.com/startbootstrap/startbootstrap-agency".
 
-Se puede ver el tema en la web https:/coodev.net.
+Se puede ver el tema en la web https://coodev.net.
